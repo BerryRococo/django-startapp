@@ -1,0 +1,10 @@
+{
+  "author_name": "CoderChaos",
+  "author_email": "CoderChaos@yeah.net",
+  "python_version": "python3.11",
+  "product_name": "PyCharm",
+  "project_name": "django-startapp",
+  "app_name": "app_name",
+  "verbose_name": "verbose_name",
+  "timestamp": "{{ cookiecutter.timestamp }}"
+}
