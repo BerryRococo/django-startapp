@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "django-startapp"
+version = "0.1.0"
+description = "Use cookiecutter create django app"
+authors = ["CoderBerryRococo <CoderChaos@yeah.net>"]
+license = "Apache License 2.0"
+readme = "README.md"
+packages = [{include = "django_startapp"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+cookiecutter = "^2.1.1"
+commitizen = "^2.38.0"
+pre-commit = "^2.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
