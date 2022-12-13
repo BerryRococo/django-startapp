@@ -61,6 +61,25 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+*.iws
+.idea_modules/
+.idea/replstate.xml
+.idea/sonarlint/
+.idea/httpRequests
+
 # Flask stuff:
 instance/
 .webassets-cache
